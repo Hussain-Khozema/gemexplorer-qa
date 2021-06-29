@@ -1,0 +1,2144 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "what school must I be from to be eligible for research program",
+              "id": 84340,
+              "answers": [
+                {
+                  "answer_id": 94537,
+                  "document_id": 91256,
+                  "question_id": 84340,
+                  "text": "Be from either College of Engineering or College of Science",
+                  "answer_start": 2652,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Are students allowed to go during their final semester",
+              "id": 82347,
+              "answers": [
+                {
+                  "answer_id": 92538,
+                  "document_id": 91256,
+                  "question_id": 82347,
+                  "text": "students are not allowed to go on exchange during their final semester unless approval is granted by their respective Schools. ",
+                  "answer_start": 254,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for sch​ool of chemical and biomedical engineering\n",
+              "id": 82349,
+              "answers": [
+                {
+                  "answer_id": 92540,
+                  "document_id": 91256,
+                  "question_id": 82349,
+                  "text": "​Sch​ool of Chemical and Biomedical Engineering - 3.3",
+                  "answer_start": 942,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for school of civil and environmental engineering",
+              "id": 82350,
+              "answers": [
+                {
+                  "answer_id": 92541,
+                  "document_id": 91256,
+                  "question_id": 82350,
+                  "text": "School of Civil and Environmental Engineering - 3.3",
+                  "answer_start": 996,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the eligibility criteria\n",
+              "id": 82351,
+              "answers": [
+                {
+                  "answer_id": 92543,
+                  "document_id": 91256,
+                  "question_id": 82351,
+                  "text": "Be an active full-time NTU undergraduate\nHave completed at least 2 semesters at NTU before the exchange semester\nYou must be at least in Year 2 Semester 1 when you embark on exchange. ie. You cannot be on exchange in your first year of study.",
+                  "answer_start": 550,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can I go for gem explorer again\n",
+              "id": 82353,
+              "answers": [
+                {
+                  "answer_id": 92545,
+                  "document_id": 91256,
+                  "question_id": 82353,
+                  "text": " if you had been on an overseas exchange programme, you would not be eligible to apply for GEM Explorer Programmes. ",
+                  "answer_start": 2366,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can I go for research program if I have been overseas before",
+              "id": 84341,
+              "answers": [
+                {
+                  "answer_id": 94538,
+                  "document_id": 91256,
+                  "question_id": 84341,
+                  "text": "Have never been on an overseas exchange programme before",
+                  "answer_start": 3146,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the minimum GPA required",
+              "id": 84325,
+              "answers": [
+                {
+                  "answer_id": 94522,
+                  "document_id": 91256,
+                  "question_id": 84325,
+                  "text": "Students must have a minimum CGPA of 3.3 and above when you apply. ",
+                  "answer_start": 1746,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for school of computer science and engineering\n",
+              "id": 84327,
+              "answers": [
+                {
+                  "answer_id": 94524,
+                  "document_id": 91256,
+                  "question_id": 84327,
+                  "text": "School of Computer Science and Engineering - 3.3",
+                  "answer_start": 1048,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for EEE students\n",
+              "id": 84328,
+              "answers": [
+                {
+                  "answer_id": 94525,
+                  "document_id": 91256,
+                  "question_id": 84328,
+                  "text": "School of Electrical and Electronic Engineering -3.3",
+                  "answer_start": 1097,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for MSE students",
+              "id": 84329,
+              "answers": [
+                {
+                  "answer_id": 94526,
+                  "document_id": 91256,
+                  "question_id": 84329,
+                  "text": "School of Materials Science and Engineering - 3.3",
+                  "answer_start": 1150,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for MAE students",
+              "id": 84330,
+              "answers": [
+                {
+                  "answer_id": 94527,
+                  "document_id": 91256,
+                  "question_id": 84330,
+                  "text": "School of Mechanical and Aerospace Engineering - 3.3",
+                  "answer_start": 1200,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for nbs students\n",
+              "id": 84331,
+              "answers": [
+                {
+                  "answer_id": 94528,
+                  "document_id": 91256,
+                  "question_id": 84331,
+                  "text": "Nanyang Business School - 3.3",
+                  "answer_start": 1274,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for adm students",
+              "id": 84332,
+              "answers": [
+                {
+                  "answer_id": 94529,
+                  "document_id": 91256,
+                  "question_id": 84332,
+                  "text": "School of Art, Design and Media - 3.3",
+                  "answer_start": 1354,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for soh students\n",
+              "id": 84333,
+              "answers": [
+                {
+                  "answer_id": 94530,
+                  "document_id": 91256,
+                  "question_id": 84333,
+                  "text": "School of ​Humanities - 3.3​​",
+                  "answer_start": 1393,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for sss students\n",
+              "id": 84334,
+              "answers": [
+                {
+                  "answer_id": 94531,
+                  "document_id": 91256,
+                  "question_id": 84334,
+                  "text": "School of Social Sciences - 3.3",
+                  "answer_start": 1426,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for sbs students",
+              "id": 84335,
+              "answers": [
+                {
+                  "answer_id": 94532,
+                  "document_id": 91256,
+                  "question_id": 84335,
+                  "text": "School of Biological Sciences - 3.3",
+                  "answer_start": 1537,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for spms students",
+              "id": 84336,
+              "answers": [
+                {
+                  "answer_id": 94533,
+                  "document_id": 91256,
+                  "question_id": 84336,
+                  "text": "School of Physical and Mathematical Sciences - 3.3",
+                  "answer_start": 1574,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for NIE students",
+              "id": 84337,
+              "answers": [
+                {
+                  "answer_id": 94534,
+                  "document_id": 91256,
+                  "question_id": 84337,
+                  "text": "National Institute of Education - 3.6",
+                  "answer_start": 1669,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What gpa is required for ssm students",
+              "id": 84339,
+              "answers": [
+                {
+                  "answer_id": 94536,
+                  "document_id": 91256,
+                  "question_id": 84339,
+                  "text": "Sport Science and Management - 3.3​",
+                  "answer_start": 1708,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Eligibility Criteria\nStudents must meet the eligibility criteria to qualify for the programme.  Do check the information on Allocation Criteria to familiarise yourself with the various factors that may affect your acceptance in the programme. \nNote that students are not allowed to go on exchange during their final semester unless approval is granted by their respective Schools. \nThe eligibility criteria for semester study and research can be found below.\n\n​Semester Study\nTo be eligible for GEM Explorer's Semester Study Programme, you need to: \nBe an active full-time NTU undergraduate\nHave completed at least 2 semesters at NTU before the exchange semester\nYou must be at least in Year 2 Semester 1 when you embark on exchange. ie. You cannot be on exchange in your first year of study.\nCheck if you meet the minimum CGPA required by your School, please refer to the table below:\n\nSchool​​​\nProgramme\nMin. cGPA\n\nCollege of Engineering \n​Sch​ool of Chemical and Biomedical Engineering - 3.3\nSchool of Civil and Environmental Engineering - 3.3\nSchool of Computer Science and Engineering - 3.3\nSchool of Electrical and Electronic Engineering -3.3\nSchool of Materials Science and Engineering - 3.3\nSchool of Mechanical and Aerospace Engineering - 3.3\n\nCollege of Business\nNanyang Business School - 3.3\n\nCollege of Humanities, Arts, and Social Sciences\nSchool of Art, Design and Media - 3.3\n\nSchool of ​Humanities - 3.3​​\n\n​​School of Social Sciences - 3.3\n\nWee Kim Wee School of Communication and Information - 3.3\n\nCollege of Science\nSchool of Biological Sciences - 3.3\n\nSchool of Physical and Mathematical Sciences - 3.3\n\nThe Asian School of the Environment - 3.3\n\nNational Institute of Education - 3.6\n\nSport Science and Management - 3.3​\n\n\nStudents must have a minimum CGPA of 3.3 and above when you apply. \nApart from NTU’s minimum CPGA criteria, students must meet the CGPA required by the host university in order to participate in the programme.\nFor double-degree programme students, the programme with the higher CGPA will be considered.\n​Have never been on an overseas exchange programme before\nYou can still apply for GEM Explorer even if you had previously been on fee-paying programmes like GEM Discoverer Prelude, GEM Discoverer Summer Studies, GEM Discoverer Language Immersion, or any Overseas Industrial Orientation/Industrial Attachment.\nHowever, if you had been on an overseas exchange programme, you would not be eligible to apply for GEM Explorer Programmes. Refer to Allocation Criteria for more information.\n\nResearch\nTo be eligible for GEM Explorer's Research Programme, you need to: \nBe an active full-time NTU undergraduate\nBe from either College of Engineering or College of Science\nHave met all attachment and internship pre-requisites\nCheck if you meet the minimum CGPA required by your School, refer to the table above. \nStudents must have a minimum CGPA of 3.3 and above when you apply.\nStudents must maintain the minimum CGPA required by NTU and the host university.\nFor double-degree programme students, the programme with the higher CGPA shall be considered.\nHave not completed any local attachment/internship\nHave never been on an overseas exchange programme before\nYou can still apply for GEM Explorer even if you had previously been on fee-paying programmes like GEM Discoverer Prelude, GEM Discoverer Summer Studies, GEM Discoverer Language Immersion, or any Overseas Industrial Orientation/Industrial Attachment.\nHowever, if you had been on an overseas exchange programme (tuition fee waiver), you would not be eligible to apply for GEM Explorer Programmes. Refer to Allocation Criteria for more information.\n​",
+          "document_id": 91256
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many universities can I go to\n",
+              "id": 86064,
+              "answers": [
+                {
+                  "answer_id": 96177,
+                  "document_id": 127305,
+                  "question_id": 86064,
+                  "text": "NTU has more than 350 ​Partner Universities",
+                  "answer_start": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​Partner Universities Brochures\n\nNTU has more than 350 ​Partner Universities over 40 destinations worldwide.",
+          "document_id": 127305
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "are scholars given any priority",
+              "id": 86065,
+              "answers": [
+                {
+                  "answer_id": 96178,
+                  "document_id": 127306,
+                  "question_id": 86065,
+                  "text": "given a one-time priority for placement",
+                  "answer_start": 117,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "are scholars guaranteed any university",
+              "id": 86066,
+              "answers": [
+                {
+                  "answer_id": 96179,
+                  "document_id": 127306,
+                  "question_id": 86066,
+                  "text": " not necessarily a place in one of the top 3 host university choices",
+                  "answer_start": 301,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how many scholars can go to the same university",
+              "id": 86067,
+              "answers": [
+                {
+                  "answer_id": 96180,
+                  "document_id": 127306,
+                  "question_id": 86067,
+                  "text": "Not more than 2 students from each scholarship programme shall be allocated to the same university",
+                  "answer_start": 749,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What if there are multiple scholars applying to the same university",
+              "id": 86068,
+              "answers": [
+                {
+                  "answer_id": 96181,
+                  "document_id": 127306,
+                  "question_id": 86068,
+                  "text": "allocation shall be based on cGPA and citizenship",
+                  "answer_start": 973,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many times can I be guaranteed a place for exchage",
+              "id": 86069,
+              "answers": [
+                {
+                  "answer_id": 96182,
+                  "document_id": 127306,
+                  "question_id": 86069,
+                  "text": "only once over the course of their degree at NTU",
+                  "answer_start": 1424,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "are scholars guaranteed placement at the host university",
+              "id": 86070,
+              "answers": [
+                {
+                  "answer_id": 96183,
+                  "document_id": 127306,
+                  "question_id": 86070,
+                  "text": "Placement at the host university will not be guaranteed.",
+                  "answer_start": 1729,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "is there a GPA requirement for scholars",
+              "id": 86071,
+              "answers": [
+                {
+                  "answer_id": 96184,
+                  "document_id": 127306,
+                  "question_id": 86071,
+                  "text": "must meet the minimum requirements/criteria of each programme",
+                  "answer_start": 2265,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can scholar enter only once choice in the application",
+              "id": 86072,
+              "answers": [
+                {
+                  "answer_id": 96185,
+                  "document_id": 127306,
+                  "question_id": 86072,
+                  "text": "All university choices must be filled up at the point of application in order to exercise his/her guarantee",
+                  "answer_start": 2412,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "can a scholar refuse the placement",
+              "id": 86073,
+              "answers": [
+                {
+                  "answer_id": 96186,
+                  "document_id": 127306,
+                  "question_id": 86073,
+                  "text": "If a scholar is offered an appropriate placement and refuses it, he/she forfeits his/her guarantee",
+                  "answer_start": 2641,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "CN Yang, NTU-USP & TSP Scholars Guarantee\nCN Yang SP, NTU-USP and TSP Scholars who are eligible for GEM Explorer are given a one-time priority for placement in any overseas programme managed by OGEM. This means scholars can be guaranteed of securing a place in the GEM Explorer Exchange programme, but not necessarily a place in one of the top 3 host university choices ranked in your online application if you work closely with your fellow PSP scholars. To encourage diversity, scholars should spread their immersion destinations and not cluster to the same universities.\n\n\n\nAY2016-2017 onwards:\n\nCN Yang SP, NTU-USP & TSP scholars shall be allocated first. The success of allocation still depends on ranking choices and the availability of spots.\nNot more than 2 students from each scholarship programme shall be allocated to the same university (subject to the total number of spots available at each university).\nFor institutions with limited spots (eg. 2 spots etc.), allocation shall be based on cGPA and citizenship. For example, when 5 scholars apply for a coveted institution with only 2 available spots for exchange.\n\nBelow are the terms of your priority and how to exercise it:\n\nThis guarantee for CN Yang SP, NTU-USP and TSP Scholars refers to any overseas programme managed by OGEM (e.g. 2-week to a full semester, non-fee paying, and fee paying programme).\nThe guarantee will be given to each eligible scholar only once over the course of their degree at NTU. This means that students will only be given a guarantee one time for an overseas immersion programme. Should they apply for other programmes subsequently, they must meet all eligible criteria and compete with the other students as per the normal process.\nPlacement at the host university will not be guaranteed. Available placements are not limited to the scholars' preference, which means that the scholar may be offered another appropriate programme arrangement outside his/her choice/preference. Scholars are encouraged to fully utilise their choices of 3 universities. Failure to do so might affect their chances of getting an exchange placement.\nThese terms and conditions apply to the listed scholars only (any other scholar groups will have to be assessed individually).\nAll scholars must meet the minimum requirements/criteria of each programme (e.g. CGPA) and must abide by all the rules/regulations of the particular programme.\nAll university choices must be filled up at the point of application in order to exercise his/her guarantee. If the scholar fail to do so, he/she may not be given a university placement or be able to exercise his/her guarantee. \nIf a scholar is offered an appropriate placement and refuses it, he/she forfeits his/her guarantee. Should he/she apply again, he/she must compete with the other students as per the normal criteria.\nThis guarantee is not transferable.",
+          "document_id": 127306
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How many courses do I need to match",
+              "id": 86048,
+              "answers": [
+                {
+                  "answer_id": 96161,
+                  "document_id": 127303,
+                  "question_id": 86048,
+                  "text": "the host university has at least 15 - 20 courses",
+                  "answer_start": 174,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How long does it take to plan courses\n",
+              "id": 86049,
+              "answers": [
+                {
+                  "answer_id": 96162,
+                  "document_id": 127303,
+                  "question_id": 86049,
+                  "text": "course (subject) planning to be an ongoing process until you enrol at your host university",
+                  "answer_start": 588,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can I clear electives",
+              "id": 86050,
+              "answers": [
+                {
+                  "answer_id": 96163,
+                  "document_id": 127303,
+                  "question_id": 86050,
+                  "text": "Students are advised to reserve some electives to clear during exchange.",
+                  "answer_start": 917,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can I find previously approved courses",
+              "id": 86051,
+              "answers": [
+                {
+                  "answer_id": 96164,
+                  "document_id": 127303,
+                  "question_id": 86051,
+                  "text": "CourseFinder",
+                  "answer_start": 1053,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the restrictions for minors\n",
+              "id": 86052,
+              "answers": [
+                {
+                  "answer_id": 96165,
+                  "document_id": 127303,
+                  "question_id": 86052,
+                  "text": "Minors may only take a maximum of two courses overseas to satisfy their minors.",
+                  "answer_start": 1741,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "are there any course restrictions",
+              "id": 86053,
+              "answers": [
+                {
+                  "answer_id": 96166,
+                  "document_id": 127303,
+                  "question_id": 86053,
+                  "text": "Your school and/or the host university may have certain course restrictions.",
+                  "answer_start": 1484,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who can use the slots reserved for wkwsci students",
+              "id": 86054,
+              "answers": [
+                {
+                  "answer_id": 96167,
+                  "document_id": 127303,
+                  "question_id": 86054,
+                  "text": "Year 2 Sem 2 students",
+                  "answer_start": 1883,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Course Planning\nBefore you apply for the GEM Explorer programme, you must thoroughly research information on the course offerings of your potential host university. Check if the host university has at least 15 - 20 courses that:\n\nare available to you for the exchange semester you intend to go​\n\nmatch those in your School for credit transfer*\n*Irreconcilable course-matching issues could prevent you from embarking on exchange or transferring credits. Please note that it is your responsibility to find out whether or not the course is available to exchange students.\n\n\n\nBe prepared for course (subject) planning to be an ongoing process until you enrol at your host university. ​Allow yourself some flexibility in the courses you want to take as that depends on what the partner university offers every semester – successful enrolment in these courses are subject to availability and fulfilment of pre-requisites.\n\nStudents are advised to reserve some electives to clear during exchange.\n\nYou may explore the following resources for course planning:\n\nCourseFinder - List of approved courses taken by past GEM Explorer students. It can only be used as a reference guide as courses offered during your exchange semester may be subjected to changes.\n\nPartner Universities Brochures including Factsheets via GEM Mobility Portal\n\nPartner Universities Website - ​Link can be found via GEM Mobility Portal\n\nConsult your NTU School Exchange Coordinator for advice​​​​\n\n\nCourse Restrictions\nYour school and/or the host university may have certain course restrictions.\n\nPlease check both your school's requirement via the respective links below and the partner universities brochures, factsheet and/or website via GEM Mobility Portal.\n\nRestrictions\nMinors may only take a maximum of two courses overseas to satisfy their minors.\n\nSlots reserved specifically for WKWSCI are to be used by our Year 2 Sem 2 students.",
+          "document_id": 127303
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "is there any financial aid provided",
+              "id": 86055,
+              "answers": [
+                {
+                  "answer_id": 96168,
+                  "document_id": 127304,
+                  "question_id": 86055,
+                  "text": "please visit Financial Aid​ for more information",
+                  "answer_start": 214,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what tuition fees do I need to pay\n",
+              "id": 86056,
+              "answers": [
+                {
+                  "answer_id": 96169,
+                  "document_id": 127304,
+                  "question_id": 86056,
+                  "text": "Students only need to pay tuition fees to NTU as usual.",
+                  "answer_start": 373,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "does host university require any fees",
+              "id": 86057,
+              "answers": [
+                {
+                  "answer_id": 96170,
+                  "document_id": 127304,
+                  "question_id": 86057,
+                  "text": "host university may require you to pay additional fees before you enrol",
+                  "answer_start": 457,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the estimated cost for asian universities",
+              "id": 86060,
+              "answers": [
+                {
+                  "answer_id": 96173,
+                  "document_id": 127304,
+                  "question_id": 86060,
+                  "text": "S$12,000 onwards",
+                  "answer_start": 1322,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the estimated cost for oceania universities",
+              "id": 86061,
+              "answers": [
+                {
+                  "answer_id": 96174,
+                  "document_id": 127304,
+                  "question_id": 86061,
+                  "text": "S$18,000 onwards",
+                  "answer_start": 1347,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the estimated cost for american universities",
+              "id": 86063,
+              "answers": [
+                {
+                  "answer_id": 96176,
+                  "document_id": 127304,
+                  "question_id": 86063,
+                  "text": "S$20,000 onwards",
+                  "answer_start": 1382,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the estimated cost for european universities",
+              "id": 86062,
+              "answers": [
+                {
+                  "answer_id": 96175,
+                  "document_id": 127304,
+                  "question_id": 86062,
+                  "text": "S$20,000 onwards",
+                  "answer_start": 1382,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​\nFinancials\nBefore you apply for GEM Explorer,  students must be responsible to ensure that you have the financial means to cover the duration of your exchange.  \n\nTo find out more about financial aids available, please visit Financial Aid​ for more information.\n\n\nCost\nThere are different types of costs incurred for an overseas exchange programme.\n\n​\n\n\n1) ​Tuition Fees\nStudents only need to pay tuition fees to NTU as usual.\n\n\n \n2) Incidental Fees\nYour host university may require you to pay additional fees before you enrol, such as\n\nAdministration fee (for processing your application)\nMedical exam fee\nHealth insurance (if compulsory)\nMiscellaneous fees that may be incurred at the host university\n \n\nInformation on these additional fees may be found in the partner university's info sheet.\n\n\n​\n3) Expenses\n\nBeyond fees, you should also factor in the following costs. Please note that this is not an exhaustive list.\n\nVisa application fees (if required)\nReturn airfare\nOversea Travel Insurance (compulsory)\nAccommodation costs\nFood\nBooks\nTransport\nPersonal expenses (entertainment, shopping, travel, etc.)\n\nBelow are estimated costs of exchange based on previous participants' expenses. Do note that these costs vary as they are based on an individual's spending habits and lifestyle. \n\n\nRegion\tEstimated Cost\nAsia\tS$12,000 onwards\nOceania\tS$18,000 onwards\nAmericas & Europe\tS$20,000 onwards\nThere are several financial assistance schemes available to students who wish to seek financial support while on exchange. Please see Financial Aid to find out more about awards, scholarships, loans, and grants available for NTU students.",
+          "document_id": 127304
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who can apply for round 1",
+              "id": 86080,
+              "answers": [
+                {
+                  "answer_id": 96194,
+                  "document_id": 127318,
+                  "question_id": 86080,
+                  "text": "YEAR 2 AND YEAR 3 STUDENTS - PENULTIMATE AND FINAL YEAR IN AY2021-22",
+                  "answer_start": 145,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who can apply for call in scheme 1",
+              "id": 86081,
+              "answers": [
+                {
+                  "answer_id": 96195,
+                  "document_id": 127318,
+                  "question_id": 86081,
+                  "text": "FINAL YEAR STUDENTS IN AY 2021/22",
+                  "answer_start": 558,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who can apply for round 2",
+              "id": 86082,
+              "answers": [
+                {
+                  "answer_id": 96196,
+                  "document_id": 127318,
+                  "question_id": 86082,
+                  "text": "ALL ELIGIBLE STUDENTS",
+                  "answer_start": 938,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who can apply for call in scheme 2\n",
+              "id": 86083,
+              "answers": [
+                {
+                  "answer_id": 96197,
+                  "document_id": 127318,
+                  "question_id": 86083,
+                  "text": "STUDENTS WHO WERE UNSUCCESSFUL IN ROUND 2",
+                  "answer_start": 1265,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is round one application period",
+              "id": 86084,
+              "answers": [
+                {
+                  "answer_id": 96198,
+                  "document_id": 127318,
+                  "question_id": 86084,
+                  "text": "TUE, 8 DEC 2020 (2.30PM) to WED, 16 DEC 2020 (5PM)",
+                  "answer_start": 236,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is call in scheme one application period",
+              "id": 86085,
+              "answers": [
+                {
+                  "answer_id": 96199,
+                  "document_id": 127318,
+                  "question_id": 86085,
+                  "text": "THU, 14 JAN 2021 TO SUN, 17 JAN 2021",
+                  "answer_start": 615,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is round two application period",
+              "id": 86086,
+              "answers": [
+                {
+                  "answer_id": 96200,
+                  "document_id": 127318,
+                  "question_id": 86086,
+                  "text": "THU, 21 JAN 2021 TO THU, 28 JAN 2021",
+                  "answer_start": 984,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is call in scheme two application period",
+              "id": 86087,
+              "answers": [
+                {
+                  "answer_id": 96201,
+                  "document_id": 127318,
+                  "question_id": 86087,
+                  "text": "MON, 15 FEB 2021 TO TUE, 16 FEB 2021",
+                  "answer_start": 1328,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is allocation result for round one",
+              "id": 86088,
+              "answers": [
+                {
+                  "answer_id": 96202,
+                  "document_id": 127318,
+                  "question_id": 86088,
+                  "text": "THU, 7 JAN 2021",
+                  "answer_start": 401,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is the allocation result for round two",
+              "id": 86090,
+              "answers": [
+                {
+                  "answer_id": 96204,
+                  "document_id": 127318,
+                  "question_id": 86090,
+                  "text": "THU, 4 FEB 2021",
+                  "answer_start": 1116,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is the allocation result for call in scheme one",
+              "id": 86089,
+              "answers": [
+                {
+                  "answer_id": 96203,
+                  "document_id": 127318,
+                  "question_id": 86089,
+                  "text": "TUE, 19 JAN 2021 & WED, 20 JAN 2021",
+                  "answer_start": 748,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is the allocation result for call in scheme two",
+              "id": 86092,
+              "answers": [
+                {
+                  "answer_id": 96206,
+                  "document_id": 127318,
+                  "question_id": 86092,
+                  "text": "MON, 22 FEB 2021 TO WED, 24 FEB 2021",
+                  "answer_start": 1462,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "by when can I give my decision for round one",
+              "id": 86093,
+              "answers": [
+                {
+                  "answer_id": 96207,
+                  "document_id": 127318,
+                  "question_id": 86093,
+                  "text": "THU, 7 JAN 2021 to TUE, 12 JAN 2021 (12PM)",
+                  "answer_start": 468,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "by when can I give my decision for call in scheme one",
+              "id": 86095,
+              "answers": [
+                {
+                  "answer_id": 96209,
+                  "document_id": 127318,
+                  "question_id": 86095,
+                  "text": "TUE, 19 JAN 2021 & WED, 20 JAN 2021",
+                  "answer_start": 851,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "by when can I give my decision for round two",
+              "id": 86096,
+              "answers": [
+                {
+                  "answer_id": 96210,
+                  "document_id": 127318,
+                  "question_id": 86096,
+                  "text": "THU, 4 FEB 2021 TO TUE, 9 FEB 2021",
+                  "answer_start": 1184,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "by when can I give my decision for call in scheme two",
+              "id": 86097,
+              "answers": [
+                {
+                  "answer_id": 96211,
+                  "document_id": 127318,
+                  "question_id": 86097,
+                  "text": " MON, 22 FEB 2021 TO WED, 24 FEB 2021",
+                  "answer_start": 1566,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when will i receive decision by host university for sem 1",
+              "id": 86100,
+              "answers": [
+                {
+                  "answer_id": 96214,
+                  "document_id": 127318,
+                  "question_id": 86100,
+                  "text": "March to June / July",
+                  "answer_start": 2486,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when will i receive decision by  host university for sem 2",
+              "id": 86101,
+              "answers": [
+                {
+                  "answer_id": 96215,
+                  "document_id": 127318,
+                  "question_id": 86101,
+                  "text": "August to November / December",
+                  "answer_start": 2536,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when will students be nominated for sem 1 exchange",
+              "id": 86102,
+              "answers": [
+                {
+                  "answer_id": 96216,
+                  "document_id": 127318,
+                  "question_id": 86102,
+                  "text": "February / March",
+                  "answer_start": 1921,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when will students be nominated for sem 2 exchange",
+              "id": 86103,
+              "answers": [
+                {
+                  "answer_id": 96217,
+                  "document_id": 127318,
+                  "question_id": 86103,
+                  "text": "August / September",
+                  "answer_start": 1967,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​​GEM Explorer Recruitment Exercise (AY2021/22 Sem 1 and 2)\n\nROUNDS\nAPPLICATION PERIOD​\nALLOCATION RESULT\n​COMMIT / REJECT TIMELINE\n\n​ROUND 1 - (YEAR 2 AND YEAR 3 STUDENTS - PENULTIMATE AND FINAL YEAR IN AY2021-22)\nAPPLICATION PERIOD​ -TUE, 8 DEC 2020 (2.30PM) to WED, 16 DEC 2020 (5PM). TIMING TO BE ADVISED. STUDENTS WOULD RECEIVE AN EMAIL THROUGH YOUR SCHOOL ON BEHALF OF OGEM.\nALLOCATION RESULT - THU, 7 JAN 2021. TIMING TO BE ADVISED.\n​COMMIT / REJECT TIMELINE​- THU, 7 JAN 2021 to TUE, 12 JAN 2021 (12PM). TIMING TO BE ADVISED.\n\n\n​​CALL-IN SCHEME 1 - (FINAL YEAR STUDENTS IN AY 2021/22)\t\nAPPLICATION PERIOD - THU, 14 JAN 2021 TO SUN, 17 JAN 2021. TIMING TO BE ADVISED. ELIGIBLE STUDENTS WOULD RECEIVE AN EMAIL ONCE OPEN.\nALLOCATION RESULT - ​TUE, 19 JAN 2021 & WED, 20 JAN 2021. DEPENDING ON YOUR ALLOCATED TIMESLOT.\n​COMMIT / REJECT TIMELINE - TUE, 19 JAN 2021 & WED, 20 JAN 2021 DEPENDING ON YOUR ALLOCATED TIMESLOT.\n\n​ROUND 2 - (ALL ELIGIBLE STUDENTS)\nAPPLICATION PERIOD​ - ​THU, 21 JAN 2021 TO THU, 28 JAN 2021. TIMING TO BE ADVISED. ELIGIBLE STUDENTS WOULD RECEIVE AN EMAIL ONCE OPEN.\nALLOCATION RESULT - THU, 4 FEB 2021. TIMING TO BE ADVISED.\n​COMMIT / REJECT TIMELINE - ​THU, 4 FEB 2021 TO TUE, 9 FEB 2021. TIMING TO BE ADVISED.\n\n\n​CALL-IN SCHEME 2 - (STUDENTS WHO WERE UNSUCCESSFUL IN ROUND 2)\nAPPLICATION PERIOD -MON, 15 FEB 2021 TO TUE, 16 FEB 2021. TIMING TO BE ADVISED. ELIGIBLE STUDENTS WOULD RECEIVE AN EMAIL ONCE OPEN.\n\n\nALLOCATION RESULT - MON, 22 FEB 2021 TO WED, 24 FEB 2021. DEPENDING ON YOUR ALLOCATED TIMESLOT.\n\n​COMMIT / REJECT TIMELINE - MON, 22 FEB 2021 TO WED, 24 FEB 2021. DEPENDING ON YOUR ALLOCATED TIMESLOT.\n\n\n\n**Do not contact exchange partners directly until you have received the application instructions to your allocated host university by OGEM or host university.** \n\n\nAfter you have committed the offer, please take note of the following process:\n\nOGEM will nominate students in February / March (for Semester 1 exchange) or August / September (for Semester 2 exchange) when all allocation exercises are completed.\nStudents will receive application instructions from OGEM/host university in March (for Semester 1 exchange) or September (for Semester 2 exchange), including your education certificate, English Language Proficiency certification, submission of modules you plan to take at the host university etc.\nStudents will then receive the final application outcome by their host university after they have processed the application between March to June / July (for Semester 1 exchange) or August to November / December (for Semester 2 exchange).\nStudents would be posted on the necessary actions required in due course. Please do not make any payment fee for any administrative matter including visa, air tickets and accommodation until you are advised to do so.",
+          "document_id": 127318
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "when is the nomination period for semester one exchange",
+              "id": 86104,
+              "answers": [
+                {
+                  "answer_id": 96218,
+                  "document_id": 127319,
+                  "question_id": 86104,
+                  "text": "February to March",
+                  "answer_start": 1113,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when is the nomination period for sem 2 exchange",
+              "id": 86105,
+              "answers": [
+                {
+                  "answer_id": 96219,
+                  "document_id": 127319,
+                  "question_id": 86105,
+                  "text": " August to September",
+                  "answer_start": 1143,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what do I do after my nomination is completed",
+              "id": 86106,
+              "answers": [
+                {
+                  "answer_id": 96220,
+                  "document_id": 127319,
+                  "question_id": 86106,
+                  "text": "students may submit their applications to the host university",
+                  "answer_start": 1221,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the application period to host university for semester one exchange",
+              "id": 86107,
+              "answers": [
+                {
+                  "answer_id": 96221,
+                  "document_id": 127319,
+                  "question_id": 86107,
+                  "text": "March to June",
+                  "answer_start": 1471,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the application period to host university for semester two exchange",
+              "id": 86108,
+              "answers": [
+                {
+                  "answer_id": 96222,
+                  "document_id": 127319,
+                  "question_id": 86108,
+                  "text": "September to November",
+                  "answer_start": 1497,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "how long is host university processing time",
+              "id": 86109,
+              "answers": [
+                {
+                  "answer_id": 96223,
+                  "document_id": 127319,
+                  "question_id": 86109,
+                  "text": "2 - 3 months",
+                  "answer_start": 1622,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when will I receive application outcome from host university for semester one exchange",
+              "id": 86110,
+              "answers": [
+                {
+                  "answer_id": 96224,
+                  "document_id": 127319,
+                  "question_id": 86110,
+                  "text": "March to July",
+                  "answer_start": 1831,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "when will I receive application outcome from host university for semester two exchange",
+              "id": 86111,
+              "answers": [
+                {
+                  "answer_id": 96225,
+                  "document_id": 127319,
+                  "question_id": 86111,
+                  "text": "August to December\n",
+                  "answer_start": 1858,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Apply to GEM Explorer\nApplication to GEM Explorer Programme opens twice a year:  \n\na. December - Recruitment Exercise for Exchange in Semester 1 & 2. Students may choose either Semester 1 or Semester 2 as options for Semester Exchange in this recruitment cycle.\nb. July - Students may only choose Semester 2 as option for this recruitment cycle. Do note that the vacancies are limited as these are the remaining spots from the Recruitment Exercise in December. \n\nStudents will be informed on the specific dates of application via the Announcements section.\n\n\nThe application process is as follows:\n\n1) Submit applications via the GEM Mobility Portal.\n\n2) OGEM will assess applications and inform students on the outcome via email. \n\n3) Students would then make a decision to commit / decline the offer during the given timeframe. Students who did not successfully receive an offer may participate in the next round of application. \n\n4) After the recruitment exercise is completed, OGEM will begin to process nominations and applications to the host university.​\n\nNomination Period to Host University:\nSemester 1: February to March\n\nSemester 2: August to September\n\n\nApply to Host University\nOnce nomination is completed, students may submit their applications to the host university.  Students would be informed either by OGEM or the host university on the specific details regarding application requirements and procedures. \n\nApplication to Host University:\nSemester 1: March to June\nSemester 2: September to November\n\nThe application outcome would depend on each host university's processing time, which may take around 2 - 3 months. ​Do note that some host universities process applications only after the application period has closed, while some are on a rolling basis.\n\n​Application Outcome from Host University:\nSemester 1: March to July\n\nSemester 2: August to December\n\nDo note that your acceptance to the host university is subject to their assessment and approval.  \n\n",
+          "document_id": 127319
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "How can i get the acceptance letter hard copy",
+              "id": 86863,
+              "answers": [
+                {
+                  "answer_id": 96991,
+                  "document_id": 128752,
+                  "question_id": 86863,
+                  "text": "Collection at OGEM's office ",
+                  "answer_start": 334,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When is the application outcome from the host university for the semester 2 exchange?",
+              "id": 86861,
+              "answers": [
+                {
+                  "answer_id": 96989,
+                  "document_id": 128752,
+                  "question_id": 86861,
+                  "text": "August to December",
+                  "answer_start": 475,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When is the application outcome from the host university for the semester 1 exchange?",
+              "id": 86860,
+              "answers": [
+                {
+                  "answer_id": 96988,
+                  "document_id": 128752,
+                  "question_id": 86860,
+                  "text": "March to July",
+                  "answer_start": 448,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How can I get the acceptance letter soft copy",
+              "id": 86862,
+              "answers": [
+                {
+                  "answer_id": 96990,
+                  "document_id": 128752,
+                  "question_id": 86862,
+                  "text": "By Email from host university/OGEM",
+                  "answer_start": 287,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Acceptance Letter\nAfter successful application, students would be notified by their host universities regarding their Acceptance Letters.  OGEM will notify students to collect the hard copies of their Acceptance Letters accordingly (if available). \n\nType of Acceptance Letter\nSoft copy: By Email from host university/OGEM\n\nHard copy: Collection at OGEM's office \n\nApplication Outcome (including Acceptance Letter) from Host University:\nSemester 1: March to July\n\nSemester 2: August to December",
+          "document_id": 128752
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can i get the letter of participation",
+              "id": 86864,
+              "answers": [
+                {
+                  "answer_id": 96992,
+                  "document_id": 128753,
+                  "question_id": 86864,
+                  "text": "via Student Resources",
+                  "answer_start": 153,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where should i submit the letter of participation",
+              "id": 86865,
+              "answers": [
+                {
+                  "answer_id": 96993,
+                  "document_id": 128753,
+                  "question_id": 86865,
+                  "text": "bring this to the OGEM office to authorise",
+                  "answer_start": 221,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​Letter of Participation\nOnce you have confirmation that you have been accepted into your host university, download the Letter of Participation template via Student Resources​ based on the Region, fill in the fields, and bring this to the OGEM office to authorise your Letter of Participation.",
+          "document_id": 128753
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Does drug laws apply to exchange students",
+              "id": 86866,
+              "answers": [
+                {
+                  "answer_id": 96994,
+                  "document_id": 128754,
+                  "question_id": 86866,
+                  "text": "Section 8A of the Act crimina​lises drug consumption overseas by Singapore citizens or permanent residents.",
+                  "answer_start": 232,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What  is a controlled drug\n",
+              "id": 86867,
+              "answers": [
+                {
+                  "answer_id": 96995,
+                  "document_id": 128754,
+                  "question_id": 86867,
+                  "text": "Please read carefully the full definition of a controlled drug in Chapter 185 of the Misuse of Drugs Act.\n",
+                  "answer_start": 594,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are some examples of controlled drug",
+              "id": 86868,
+              "answers": [
+                {
+                  "answer_id": 96996,
+                  "document_id": 128754,
+                  "question_id": 86868,
+                  "text": "can be found on the Central Narcotics Bureau's​ website",
+                  "answer_start": 742,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is the punishment regarding drugs",
+              "id": 86869,
+              "answers": [
+                {
+                  "answer_id": 96997,
+                  "document_id": 128754,
+                  "question_id": 86869,
+                  "text": "Imprisonment for up to ten (10) years;\n\nA fine of up to (but not more than) S$20,000;",
+                  "answer_start": 434,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Consumption of Controlled Drugs Overseas\nThe possession and consumption of illegal drugs outside of Singapore by Singapore citizens and Permanent Residents are still considered offences punishable by Singaporean law.\n\nSpecifically, Section 8A of the Act crimina​lises drug consumption overseas by Singapore citizens or permanent residents.\n\nThis is crucial for all outbound exchange students to note, as the consequences are severe:\n\nImprisonment for up to ten (10) years;\n\nA fine of up to (but not more than) S$20,000;\n\nOr both of the above penalties.\n\nWhat is considered a \"controlled drug\"?\nPlease read carefully the full definition of a controlled drug in Chapter 185 of the Misuse of Drugs Act.\n\nThe list of examples of controlled drugs can be found on the Central Narcotics Bureau's​ website.​ Please note that this is not an exhaustive list.\n\nResources\nThe following resources provide helpful information on drug laws and offences in Singapore as well as social services available.\n\nSingapore Statutes\n\nCentral Narcotics Bureau​\n\nList of NCSS Helplines​",
+          "document_id": 128754
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Do I need to purchase overseas health insurance",
+              "id": 86874,
+              "answers": [
+                {
+                  "answer_id": 97002,
+                  "document_id": 128756,
+                  "question_id": 86874,
+                  "text": "Some host universities require exchange students to purchase their local health insurance that covers the duration of the programme",
+                  "answer_start": 18,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How will I know if I am required to purchase additional insurnace",
+              "id": 86875,
+              "answers": [
+                {
+                  "answer_id": 97003,
+                  "document_id": 128756,
+                  "question_id": 86875,
+                  "text": " Your host university would inform you accordingly",
+                  "answer_start": 279,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "H​ealth Insurance\nSome host universities require exchange students to purchase their local health insurance that covers the duration of the programme.  In some instances, these are mandatory requirements either by the host university or as legally required by the host country.   Your host university would inform you accordingly if you are required to purchase health insurance in addition to NTU Group Travel Insurance.",
+          "document_id": 128756
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Am I insured by NTU or do I need to purchase one",
+              "id": 86884,
+              "answers": [
+                {
+                  "answer_id": 97012,
+                  "document_id": 128758,
+                  "question_id": 86884,
+                  "text": "All full-time undergraduate and graduate students of NTU will enjoy coverage for all official trips sanctioned by NTU",
+                  "answer_start": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​NTU Group Travel Insurance\nAll full-time undergraduate and graduate students of NTU will enjoy coverage for all official trips sanctioned by NTU under the new Group Travel Insurance scheme that is effective 1 June 2019.",
+          "document_id": 128758
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When will pre-departure checkout be available",
+              "id": 86887,
+              "answers": [
+                {
+                  "answer_id": 97015,
+                  "document_id": 128760,
+                  "question_id": 86887,
+                  "text": "one month before the start of the programme",
+                  "answer_start": 56,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Pre-Departure Checklist would be available for students one month before the start of the programme.\n\n",
+          "document_id": 128760
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What should I do after coming back to NTU",
+              "id": 86895,
+              "answers": [
+                {
+                  "answer_id": 97024,
+                  "document_id": 128763,
+                  "question_id": 86895,
+                  "text": " please take note of your course registration deadlines and preparations for your upcoming semester in NTU.",
+                  "answer_start": 28,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "When you return back to NTU, please take note of your course registration deadlines and preparations for your upcoming semester in NTU.",
+          "document_id": 128763
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who will approve the course matching",
+              "id": 86901,
+              "answers": [
+                {
+                  "answer_id": 97031,
+                  "document_id": 128765,
+                  "question_id": 86901,
+                  "text": "students are advised to plan ",
+                  "answer_start": 214,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How many courses should I plan",
+              "id": 86902,
+              "answers": [
+                {
+                  "answer_id": 97032,
+                  "document_id": 128765,
+                  "question_id": 86902,
+                  "text": "at least 10 to 20 courses",
+                  "answer_start": 243,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can I submit the courses for approval",
+              "id": 86903,
+              "answers": [
+                {
+                  "answer_id": 97033,
+                  "document_id": 128765,
+                  "question_id": 86903,
+                  "text": "You would be required to submit the course matching via the online system for your school's approval.",
+                  "answer_start": 307,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​​​Students need to be aware that course matching is an ongoing process till you commence your exchange in your host country.​Course matching is to be jointly approved by both NTU and your host university.\n\nHence, students are advised to plan at least 10 to 20 courses in case of unforeseen circumstances.\n\nYou would be required to submit the course matching via the online system for your school's approval.",
+          "document_id": 128765
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is expected of me during the exchange",
+              "id": 86907,
+              "answers": [
+                {
+                  "answer_id": 97037,
+                  "document_id": 128767,
+                  "question_id": 86907,
+                  "text": "​All GEM Explorer students should be ready to be NTU Ambassadors during their exchange programme",
+                  "answer_start": 0,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How can i represent NTU while on the exchange",
+              "id": 86908,
+              "answers": [
+                {
+                  "answer_id": 97038,
+                  "document_id": 128767,
+                  "question_id": 86908,
+                  "text": "participate, on behalf of NTU, in activities that promote exchange programmes.",
+                  "answer_start": 620,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What if my host university does not have any events to promote exchange activities",
+              "id": 86909,
+              "answers": [
+                {
+                  "answer_id": 97039,
+                  "document_id": 128767,
+                  "question_id": 86909,
+                  "text": "prepare and conduct a short presentation about NTU or Singapore",
+                  "answer_start": 824,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "​All GEM Explorer students should be ready to be NTU Ambassadors during their exchange programme. As explained, exchange programmes run on reciprocal agreements. In return for one NTU student going to a partner university, one student from the same partner university can study here.\n\nStudents are encouraged to do their part in enabling future exchanges the way that past Explorer students have enabled your exchange.\n\nBesides being on your best behaviour, you should actively participate and volunteer in duties.\n\nYou can:\n\napproach the global mobility / study abroad office at your host university and ask if you can participate, on behalf of NTU, in activities that promote exchange programmes.\n\nEg: Study Abroad fairs, Partners Day.\n\nin the event that your host university does not have any activities/events, you may\n\nprepare and conduct a short presentation about NTU or Singapore (you can ask for permission to present for 5 minutes before lecture.)\n\nintroduce NTU as a place to go on exchange for friends/peers at your host university",
+          "document_id": 128767
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When can i start purchasing flight tickets and booking accomodation",
+              "id": 86870,
+              "answers": [
+                {
+                  "answer_id": 96998,
+                  "document_id": 128755,
+                  "question_id": 86870,
+                  "text": "received your Acceptance Package",
+                  "answer_start": 46,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where should I book my flights from",
+              "id": 86871,
+              "answers": [
+                {
+                  "answer_id": 96999,
+                  "document_id": 128755,
+                  "question_id": 86871,
+                  "text": "Students are advised to book their flights directly from the service provider",
+                  "answer_start": 347,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the housing options",
+              "id": 86872,
+              "answers": [
+                {
+                  "answer_id": 97000,
+                  "document_id": 128755,
+                  "question_id": 86872,
+                  "text": "Students are advised to research on the housing options (on-campus and off-campus) available from the host university.",
+                  "answer_start": 555,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can I go for private housing",
+              "id": 86873,
+              "answers": [
+                {
+                  "answer_id": 97001,
+                  "document_id": 128755,
+                  "question_id": 86873,
+                  "text": "Some students may opt for private housing.",
+                  "answer_start": 944,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Flights & Housing\nPlease ensure that you have received your Acceptance Package before purchasing the air tickets and booking of accommodation. If you plan to purchase the air tickets or/and book the accommodation earlier, you are advised to check on the terms and conditions before purchasing in case you are not able to fulfil your travel plan.\n\nStudents are advised to book their flights directly from the service provider in case of any unforeseen circumstances arise, such as cancellation/preponement of travel plan.\n\n\nOn-Campus / Off-Campus Housing\n​Students are advised to research on the housing options (on-campus and off-campus) available from the host university.\n\nThe details can be found in the Partner Universities brochures via GEM Mobility Portal.\n\nYou can also visit the Partner Universities website, link can be found via the Partner Universities brochures to find out more about the updated housing options.\n\nPrivate Housing\n​Some students may opt for private housing. Some host universities may recommend private housing options. Students who wish to search for their own private housing would need to ensure that there is a contractual agreement and read through the terms and conditions before confirmation of booking.",
+          "document_id": 128755
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "When is the pre-departure briefing for semester 1 exchange",
+              "id": 86885,
+              "answers": [
+                {
+                  "answer_id": 97013,
+                  "document_id": 128759,
+                  "question_id": 86885,
+                  "text": "April",
+                  "answer_start": 177,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "When is the pre-departure briefing for semester 2 exchange",
+              "id": 86886,
+              "answers": [
+                {
+                  "answer_id": 97014,
+                  "document_id": 128759,
+                  "question_id": 86886,
+                  "text": "November / December",
+                  "answer_start": 196,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Pre​-Departure Briefing\nAll GEM Explorer participants are required to attend the mandatory Pre-Departure Briefing organised by OGEM. \n\nPre-Departure Briefing Period\nSemester 1: April\n\nSemester 2: November / December",
+          "document_id": 128759
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is post exchange review",
+              "id": 86894,
+              "answers": [
+                {
+                  "answer_id": 97023,
+                  "document_id": 128762,
+                  "question_id": 86894,
+                  "text": "summarise your exchange experience at the host country and university for future NTU students' references.",
+                  "answer_start": 124,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "All students who have participated in the GEM Explorer exchange programme are required to provide a post exchange review to summarise your exchange experience at the host country and university for future NTU students' references.\n\n​You would be notified via NTU email on the completion of post exchange review as soon as you return to NTU.",
+          "document_id": 128762
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Where can i get transcripts for credit transfer",
+              "id": 86896,
+              "answers": [
+                {
+                  "answer_id": 97025,
+                  "document_id": 128764,
+                  "question_id": 86896,
+                  "text": "follow up with their host universities on the transcripts for credit transfer purposes.​​",
+                  "answer_start": 79,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where should the hardcopy transcripts be sent to",
+              "id": 86897,
+              "answers": [
+                {
+                  "answer_id": 97026,
+                  "document_id": 128764,
+                  "question_id": 86897,
+                  "text": "The transcripts should be sent to OGEM",
+                  "answer_start": 412,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "what is ogem address",
+              "id": 86898,
+              "answers": [
+                {
+                  "answer_id": 97027,
+                  "document_id": 128764,
+                  "question_id": 86898,
+                  "text": "Office of Global Education and Mobility\nStudent & Academic Services Department\nNanyang Technological University\n42 Nanyang Avenue, Student Services Centre, Level 1\nSingapore 639815",
+                  "answer_start": 593,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Can i submit soft copy transcripts",
+              "id": 86899,
+              "answers": [
+                {
+                  "answer_id": 97028,
+                  "document_id": 128764,
+                  "question_id": 86899,
+                  "text": "You are required to inform your host university to email us a copy of your transcript.",
+                  "answer_start": 796,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What should I do if I can only view the transcript from the university portal",
+              "id": 86900,
+              "answers": [
+                {
+                  "answer_id": 97029,
+                  "document_id": 128764,
+                  "question_id": 86900,
+                  "text": "please grant us access to our email to view your transcript through the portal.",
+                  "answer_start": 958,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "All GEM Explorer students who have completed their exchange are responsible to follow up with their host universities on the transcripts for credit transfer purposes.​​\n\nAs different host universities issue transcripts differently, please check with your host university on their issuance of transcripts.\n\n\nHardcopy Transcripts\nYou are required to order your host university transcript from the host university. The transcripts should be sent to OGEM. Once OGEM receives your transcript, it will be delivered to One Stop where you will be notified via ServiceNow for collection.\n\nOGEM Address\nOffice of Global Education and Mobility\nStudent & Academic Services Department\nNanyang Technological University\n42 Nanyang Avenue, Student Services Centre, Level 1\nSingapore 639815\n\nSoftcopy Transcripts\nYou are required to inform your host university to email us a copy of your transcript.\n\nIf you are able to view your transcript from your host university portal, please grant us access to our email to view your transcript through the portal.",
+          "document_id": 128764
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Who can I contact in terms of emergency",
+              "id": 86904,
+              "answers": [
+                {
+                  "answer_id": 97034,
+                  "document_id": 128766,
+                  "question_id": 86904,
+                  "text": "International SOS: +65 6338 7800",
+                  "answer_start": 321,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is Gem Explorer number",
+              "id": 86905,
+              "answers": [
+                {
+                  "answer_id": 97035,
+                  "document_id": 128766,
+                  "question_id": 86905,
+                  "text": "GEM Explorer Hotline: +65 6790 5878",
+                  "answer_start": 391,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is ministry of foreign affairs numbers",
+              "id": 86906,
+              "answers": [
+                {
+                  "answer_id": 97036,
+                  "document_id": 128766,
+                  "question_id": 86906,
+                  "text": "Ministry of Foreign Affairs: +65 6379 8800 / 8855",
+                  "answer_start": 450,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "All GEM Explorer students are required to save not limited to the following emergency contact numbers\n\nYour Host University’s Emergency Number\n\n(Please get hold of this number as soon as you arrive at your Host University)\n\nInsurance 24/7 Hotline\n\n(You will be informed once the travel insurance details are confirmed.)\n\nInternational SOS: +65 6338 7800\n\n(NTU Membership No.: 02AYCA089601)\n\nGEM Explorer Hotline: +65 6790 5878\n\n(working hours only)\n\nMinistry of Foreign Affairs: +65 6379 8800 / 8855\n\n(24-hour hotline)",
+          "document_id": 128766
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Is attending orientation cumpulsory?",
+              "id": 86910,
+              "answers": [
+                {
+                  "answer_id": 97040,
+                  "document_id": 128768,
+                  "question_id": 86910,
+                  "text": "required to attend the orientation organised by your host university",
+                  "answer_start": 31,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "All GEM Explorer​ students are required to attend the orientation organised by your host university, which would usually be held before the commencement of exchange semester.\n\nMore information on the orientation would be shared by your host university when receiving the Acceptance Package.\n\nYou can also find the general information in the Partner Universities brochures via GEM Mobility Portal​.",
+          "document_id": 128768
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "Will I be helped with my immigration process",
+              "id": 86879,
+              "answers": [
+                {
+                  "answer_id": 97007,
+                  "document_id": 128770,
+                  "question_id": 86879,
+                  "text": "Students going on overseas exchange are responsible for researching and arranging all travel requirements by the host country, such as valid passport and student visa",
+                  "answer_start": 33,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Where can I find information about immigration",
+              "id": 86880,
+              "answers": [
+                {
+                  "answer_id": 97008,
+                  "document_id": 128770,
+                  "question_id": 86880,
+                  "text": "These information may be found in your Acceptance Packages or email correspondence from your host university.",
+                  "answer_start": 216,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Whats the immigration process for international students",
+              "id": 86881,
+              "answers": [
+                {
+                  "answer_id": 97009,
+                  "document_id": 128770,
+                  "question_id": 86881,
+                  "text": "If you are an international student, check if the embassies’ Singapore branch is able to accommodate your visa application",
+                  "answer_start": 512,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What are the documents required for visa",
+              "id": 86882,
+              "answers": [
+                {
+                  "answer_id": 97010,
+                  "document_id": 128770,
+                  "question_id": 86882,
+                  "text": "Official statement or proof of your exchange\nMedical exam\nCertificate of Clearance (COC)\nBank statement",
+                  "answer_start": 949,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the visa application processing time",
+              "id": 86883,
+              "answers": [
+                {
+                  "answer_id": 97011,
+                  "document_id": 128770,
+                  "question_id": 86883,
+                  "text": "application's processing time (may take up to 2 months)",
+                  "answer_start": 1144,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Immigration (Passport and Visa)​\nStudents going on overseas exchange are responsible for researching and arranging all travel requirements by the host country, such as valid passport and student visa (if required).\n\nThese information may be found in your Acceptance Packages or email correspondence from your host university. You may also check your host country's embassy or immigration department (for example, British embassy in Singapore) in relation to your visa for the purpose of semester-long exchange.\n\nIf you are an international student, check if the embassies’ Singapore branch is able to accommodate your visa application. Do note that there are instances where visa applications are required to be processed in your home country (or a different country other than Singapore), hence, you may need more time to prepare. \n\nDocuments for Application\nDocuments vary for each country's visa application, but they may include the following:\n\nOfficial statement or proof of your exchange\nMedical exam\nCertificate of Clearance (COC)\nBank statement\n\n\nBe aware of the time needed to prepare each document for your application as well as the application's processing time (may take up to 2 months) and administrative fees.",
+          "document_id": 128770
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the processing time for credit transfer",
+              "id": 86888,
+              "answers": [
+                {
+                  "answer_id": 97017,
+                  "document_id": 128761,
+                  "question_id": 86888,
+                  "text": "6 to 8 weeks",
+                  "answer_start": 189,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who is in charge of all the credit transferring",
+              "id": 86889,
+              "answers": [
+                {
+                  "answer_id": 97018,
+                  "document_id": 128761,
+                  "question_id": 86889,
+                  "text": "NTU School and the Office of Academic Services (OAS) will process all credit transfers",
+                  "answer_start": 5,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How to apply for transfer of credits",
+              "id": 86890,
+              "answers": [
+                {
+                  "answer_id": 97019,
+                  "document_id": 128761,
+                  "question_id": 86890,
+                  "text": "Log on to the online system to apply for transfer of credits.",
+                  "answer_start": 410,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who can I contact regarding transferring of credits",
+              "id": 86891,
+              "answers": [
+                {
+                  "answer_id": 97020,
+                  "document_id": 128761,
+                  "question_id": 86891,
+                  "text": "please email the ​​Office of Academic Services (OAS)",
+                  "answer_start": 1407,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Are all the questions pass/fail or graded",
+              "id": 86892,
+              "answers": [
+                {
+                  "answer_id": 97021,
+                  "document_id": 128761,
+                  "question_id": 86892,
+                  "text": "Courses approved for credit transfer are reflected as Pass/ Fail on the transcript.",
+                  "answer_start": 1571,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Who can research exchange students contact for transfer of credits",
+              "id": 86893,
+              "answers": [
+                {
+                  "answer_id": 97022,
+                  "document_id": 128761,
+                  "question_id": 86893,
+                  "text": "Career​ & Attachment Office (CAO)",
+                  "answer_start": 2228,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Your NTU School and the Office of Academic Services (OAS) will process all credit transfers, including updates in the Degree Audit. The whole processing time for credit transfer could take 6 to 8 weeks from the time you submit an online application for credit transfer or when OGEM receives your transcript, whichever is later.\n\nIn order to have your credits transferred to NTU please follow the steps below:\n\nLog on to the online system to apply for transfer of credits.\n\nSelect a sign-up profile to begin\n\nClick to finalize your list of approved course-matching records (the link is located at the bottom of the page)\n\nSelect the courses that you have registered at the host university*\n\nSelect purpose of finalizing: AU Projection*\n\nCheck the list carefully and submit (You can only submit once)*\n\n(*Note: You may skip step 3 to 5 if you have already completed the submission earlier)\n\nSelect the courses based on your transcript\n\nSelect purpose of finalizing: Credit Transfer\n\nCheck the list carefully and submit (You can only submit once)\n\nUpload a scanned copy of your official transcript (photographed version will not be accepted):\n\nComplete, clear and legible\n\nPDF format (*.pdf)\n\nFile size less than 600 kbytes (0.6 Mb) - Opt for black & white scanning for smaller file size\n\nYou may wish to make use of the scanning facilities in the libraries\n\nIf you encounter any problems in using the system, please email the ​​Office of Academic Services (OAS). Please provide your name, matriculation number, programme and a screen capture of the error message.\n\nNote:   Courses approved for credit transfer are reflected as Pass/ Fail on the transcript. The courses are not included in the computation of CGPA but counted towards the total AU requirements for the award of degree. \n\nFinal Year Students\nGraduating students or students who go on exchange in their final year are in charge of obtaining their transcripts in time for convocation, allowing time for the Office of Academic Services and your NTU School to process your credit transfer.\n\n\nCredits for Industrial Attachment (Research)\nGEM Explorer Research students who have sought approval ​​to use their research exchange to fulfil their IA requirement may contact ​Career​ & Attachment Office (CAO) for enquiries regarding credits transfer towards their IA.",
+          "document_id": 128761
+        }
+      ]
+    },
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "question": "What is the selection priority for scholars",
+              "id": 82341,
+              "answers": [
+                {
+                  "answer_id": 97042,
+                  "document_id": 91255,
+                  "question_id": 82341,
+                  "text": "Scholars shall be selected for allocation first. However, the success of allocation still depends on the ranking choices and available vacancies.  Refer to the Scholars Guarantee for more information. Nanyang Scholars would then be allocated with a certain cap requirement.",
+                  "answer_start": 735,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the citizenship criteria\n",
+              "id": 82342,
+              "answers": [
+                {
+                  "answer_id": 97043,
+                  "document_id": 91255,
+                  "question_id": 82342,
+                  "text": "Citizenship: Singaporean > Singaporean Permanent Residents > International students",
+                  "answer_start": 1011,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the academic performance requirement",
+              "id": 82343,
+              "answers": [
+                {
+                  "answer_id": 92534,
+                  "document_id": 91255,
+                  "question_id": 82343,
+                  "text": "Academic Performance\nNext, OGEM will allocate based on academic performance. Applicants with comparatively lower CGPAs should be mindful of ranking only top-tier universities with limited spots. Students are advised to consider universities with vacancies of at least 20 or more.",
+                  "answer_start": 1258,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "How is my application priority considered",
+              "id": 82344,
+              "answers": [
+                {
+                  "answer_id": 92535,
+                  "document_id": 91255,
+                  "question_id": 82344,
+                  "text": "the ranking of top three universities in your application\n\nthe no. of available spots per semester and no. of applicants to each partner university.\n\nthe priority of applicants as stated below.\n\nThe system shall place students on their 1st university choice first, based on set allocation criteria (priority), before moving on to allocate 2nd university choices to students who did not get their 1st university choice.",
+                  "answer_start": 203,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "Do senior students get any priority",
+              "id": 82345,
+              "answers": [
+                {
+                  "answer_id": 97044,
+                  "document_id": 91255,
+                  "question_id": 82345,
+                  "text": "Students at a more senior level with similar merits shall have a higher chance of allocation.",
+                  "answer_start": 1593,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            },
+            {
+              "question": "What is the allocation criteria for research students",
+              "id": 82346,
+              "answers": [
+                {
+                  "answer_id": 92537,
+                  "document_id": 91255,
+                  "question_id": 82346,
+                  "text": "For research students, selection will also be based on your School's evaluation/interview.",
+                  "answer_start": 1909,
+                  "answer_category": null
+                }
+              ],
+              "is_impossible": false
+            }
+          ],
+          "context": "Allocation Criteria\nBefore you apply, you should understand how our selection process works so that you can maximise your chances of securing a host university.  \n\nOGEM's selection process is guided by\n\nthe ranking of top three universities in your application\n\nthe no. of available spots per semester and no. of applicants to each partner university.\n\nthe priority of applicants as stated below.\n\nThe system shall place students on their 1st university choice first, based on set allocation criteria (priority), before moving on to allocate 2nd university choices to students who did not get their 1st university choice.\n\n\nGEM Explorer shall select and prioritise students based on the following set criteria:\n\nCN Yang SP, USP , TSP \nScholars shall be selected for allocation first. However, the success of allocation still depends on the ranking choices and available vacancies.  Refer to the Scholars Guarantee for more information. Nanyang Scholars would then be allocated with a certain cap requirement.\n\n\nCitizenship: Singaporean > Singaporean Permanent Residents > International students\nNext, GEM Explorer shall pick applicants based on citizenship for allocation. Do note that ranking choices, CGPA, and availability have an impact on allocation.\n\n\nAcademic Performance\nNext, OGEM will allocate based on academic performance. Applicants with comparatively lower CGPAs should be mindful of ranking only top-tier universities with limited spots. Students are advised to consider universities with vacancies of at least 20 or more.\n \n\nSeniority  (only applies for last competitive spot)\nStudents at a more senior level with similar merits shall have a higher chance of allocation.\n\n\nStudents with prior overseas immersion experience (only applies for last competitive spot)\nStudents at a more senior level with similar merits and no prior overseas experience shall have a higher chance of allocation.\n\n\nFor research students, selection will also be based on your School's evaluation/interview.",
+          "document_id": 91255
+        }
+      ]
+    }
+  ]
+}
